@@ -1,4 +1,4 @@
-
+//EDIT THIS FILE
 public class SpinnerGame {
   
   /** Precondition: min < max
