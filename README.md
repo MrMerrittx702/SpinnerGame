@@ -1,5 +1,5 @@
 # SpinnerGame
-### You code should be written in the /src/main/java/SpinnerGame.java file.
+### You code should be written in the ./src/main/java/SpinnerGame.java file.
 
 Assume that the classes listed in the Java Quick Reference have been imported where appropriate.
 
