@@ -11,10 +11,10 @@ This question involves a game that is played with multiple spinners. You will wr
 
 # Part A
 The spin method simulates a spin of a fair spinner.   
-The method returns a random integer between min and max, inclusive.   
-Complete the spin method below by assigning this random integer to result.  
-Precondition: min < max  
-Simulates a spin of a spinner by returning a random integer between min and max, inclusive.  
+* The method returns a random integer between min and max, inclusive.   
+* Complete the spin method  by assigning this random integer to result.  
+* Precondition: min < max  
+* Simulates a spin of a spinner by returning a random integer between min and max, inclusive.  
 
 # Part B
 In each round of the game, the player and the computer each spin a spinner. The player spins a spinner numbered 1 to 10 , inclusive, whereas the computer spins a spinner numbered 2 to 8, inclusive.
