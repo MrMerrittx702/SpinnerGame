@@ -20,13 +20,13 @@ Simulates a spin of a spinner by returning a random integer between min and max,
 In each round of the game, the player and the computer each spin a spinner. The player spins a spinner numbered 1 to 10 , inclusive, whereas the computer spins a spinner numbered 2 to 8, inclusive.
 
 Based on the results of the spins, a message is printed in the formats shown in the examples below.
+* If the player obtains a higher result than the computer, the player gains a number of points equal to the positive difference between the spins.
+*  If the computer obtains a higher result than the player, the player loses a number of points equal to the positive difference between the spins.
 
-If the player obtains a higher result than the computer, the player gains a number of points equal to the positive difference between the spins. If the computer obtains a higher result than the player, the player loses a number of points equal to the positive difference between the spins.
-
-In the event of a tie, the player and the computer each spin the spinner a second time.   
-If the sum of the player’s two spins are greater than the sum of the computer’s two spins, the player gains one point.   
-If the sum of the computer’s two spins are greater than the sum of the player’s two spins, the player loses one point.  
-In the event of a tie after two spins, the round is reported as a tie and the player’s score does not change.  
+* In the event of a tie, the player and the computer each spin the spinner a second time.   
+* If the sum of the player’s two spins are greater than the sum of the computer’s two spins, the player gains one point.   
+* If the sum of the computer’s two spins are greater than the sum of the player’s two spins, the player loses one point.  
+* In the event of a tie after two spins, the round is reported as a tie and the player’s score does not change.  
 
 |Player Spin #1|Computer Spin #1|Player Spin #2|Computer Spin #2|Printed String|
 |:------------:|:--------------:|:------------:|:--------------:|:------------:| 
