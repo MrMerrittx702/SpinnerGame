@@ -27,3 +27,10 @@ In the event of a tie, the player and the computer each spin the spinner a secon
 If the sum of the player’s two spins are greater than the sum of the computer’s two spins, the player gains one point.   
 If the sum of the computer’s two spins are greater than the sum of the player’s two spins, the player loses one point.  
 In the event of a tie after two spins, the round is reported as a tie and the player’s score does not change.  
+
+|Player Spin #1|Computer Spin #1|Player Spin #2|	Computer Spin #2|Printed String|
+|9|6|||You win! 3 points|
+|3|7|||You lose. −4  points|
+|4|4|6|2|	You win! 1 points|
+|6|6|1|2|	You lose.  −1  points|
+|1|1|8|8|	Tie. 0 points|
